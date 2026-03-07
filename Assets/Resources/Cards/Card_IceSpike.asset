@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9d35533f7fd49594b894f7601621c22e, type: 3}
-  m_Name: CardData
+  m_Name: Card_IceSpike
   m_EditorClassIdentifier: Assembly-CSharp::CardData
-  nameLocKey: 
+  nameLocKey: Ice Spike
   descriptionLocKey: 
-  type: 1
+  effectLocKey: 
+  type: 0
   cost: 0
   att: 0
   def: 0
-  image: {fileID: 0}
+  image: {fileID: -5212296236386218964, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}

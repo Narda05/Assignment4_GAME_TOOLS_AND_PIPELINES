@@ -14,7 +14,43 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Language
   currentLanguage: 0
   entries:
-  - locKey: CARD_FIREBALL_NAME
-    en: sds
-    fr: vdv
-    sp: ss
+  - locKey: 
+    en: BloodMoon
+    fr: Lune de Sang
+    sp: Luna de Sangre
+  - locKey: 
+    en: DreamSeal
+    fr: "Sceau du R\xEAve"
+    sp: "Sello del Sue\xF1o"
+  - locKey: 
+    en: Fireball
+    fr: Boule de Feu
+    sp: Bola de Fuego
+  - locKey: 
+    en: GuardianSpirit
+    fr: Esprit Gardien
+    sp: "Esp\xEDritu Guardi\xE1n"
+  - locKey: 
+    en: HealingLight
+    fr: "Lumi\xE8re Gu\xE9risseuse"
+    sp: Luz Sanadora
+  - locKey: 
+    en: IceSpike
+    fr: Pic de Glace
+    sp: Espina de Hielo
+  - locKey: 
+    en: PoisonMist
+    fr: "Brume Empoisonn\xE9e"
+    sp: Niebla Venenosa
+  - locKey: 
+    en: ShadowBind
+    fr: "Lien d\u2019Ombre"
+    sp: Atadura de Sombras
+  - locKey: 
+    en: Shield
+    fr: Bouclier
+    sp: Escudo
+  - locKey: 
+    en: TrunderStrike
+    fr: Frappe de Tonnerre
+    sp: Golpe de Trueno

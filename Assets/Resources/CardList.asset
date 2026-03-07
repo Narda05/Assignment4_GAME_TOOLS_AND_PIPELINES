@@ -15,3 +15,11 @@ MonoBehaviour:
   cardResourcePaths:
   - Cards/Card_Fireball
   - Cards/Card_Shield
+  - Cards/Card_ShadowBind
+  - Cards/Card_HealingLight
+  - Cards/Card_IceSpike
+  - Cards/Card_ThunderStrike
+  - Cards/Card_PoisonMist
+  - Cards/Card_GurdianSpirit
+  - Cards/Card_BloodMoon
+  - Cards/Card_DreamSeal

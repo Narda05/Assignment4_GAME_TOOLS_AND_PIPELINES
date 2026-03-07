@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d35533f7fd49594b894f7601621c22e, type: 3}
   m_Name: Card_Fireball
   m_EditorClassIdentifier: Assembly-CSharp::CardData
-  nameLocKey: Fireball
-  descriptionLocKey: Fireball
-  effectLocKey: 'Hola que tal '
+  nameLocKey: Fire Ball
+  descriptionLocKey: 'Fi '
+  effectLocKey: Que hace ??
   type: 0
-  cost: 10
-  att: 10
-  def: 5
+  cost: 3
+  att: 6
+  def: 0
   image: {fileID: 9140209874511506930, guid: 1d4143999347c3d40922b59348f665ac, type: 3}

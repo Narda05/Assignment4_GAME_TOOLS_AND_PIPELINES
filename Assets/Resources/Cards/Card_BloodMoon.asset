@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9d35533f7fd49594b894f7601621c22e, type: 3}
-  m_Name: Card_Shield
+  m_Name: Card_BloodMoon
   m_EditorClassIdentifier: Assembly-CSharp::CardData
-  nameLocKey: Shield
-  descriptionLocKey: Activ
+  nameLocKey: Blood Moon
+  descriptionLocKey: Watter
   effectLocKey: 
-  type: 1
-  cost: 2
-  att: 0
+  type: 0
+  cost: 7
+  att: 10
   def: 7
-  image: {fileID: 2371963922750762040, guid: 1d4143999347c3d40922b59348f665ac, type: 3}
+  image: {fileID: 21300000, guid: 324a46875c294cb4c90db6b3f6689179, type: 3}
