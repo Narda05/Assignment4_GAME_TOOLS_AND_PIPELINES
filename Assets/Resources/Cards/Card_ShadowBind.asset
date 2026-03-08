@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Card_ShadowBind
   m_EditorClassIdentifier: Assembly-CSharp::CardData
   nameLocKey: Shadow Bind
-  descriptionLocKey: 
-  effectLocKey: 
-  type: 1
-  cost: 0
-  att: 0
-  def: 0
+  descriptionLocKey: Shadow
+  effectLocKey: Dark shadows restrain the enemy, preventing movement
+  type: 0
+  cost: 19
+  att: 50
+  def: 5
   image: {fileID: 21300000, guid: a9336487d9df89a4ab82120b663c74cc, type: 3}

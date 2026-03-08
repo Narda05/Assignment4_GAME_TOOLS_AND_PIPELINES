@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Card_Shield
   m_EditorClassIdentifier: Assembly-CSharp::CardData
   nameLocKey: Shield
-  descriptionLocKey: Activ
-  effectLocKey: 
+  descriptionLocKey: Protection
+  effectLocKey: Create a protective barrier that absorbs incoming damage
   type: 1
   cost: 2
   att: 0

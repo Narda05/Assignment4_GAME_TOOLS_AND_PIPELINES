@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Card_PoisonMist
   m_EditorClassIdentifier: Assembly-CSharp::CardData
   nameLocKey: Poison Mist
-  descriptionLocKey: 
-  effectLocKey: 
-  type: 0
-  cost: 0
-  att: 0
+  descriptionLocKey: Poison
+  effectLocKey: Release a toxic mist that poisons enemies and deals damage over time
+  type: 2
+  cost: 6
+  att: 20
   def: 0
   image: {fileID: -5855543119618519307, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Card_Fireball
   m_EditorClassIdentifier: Assembly-CSharp::CardData
   nameLocKey: Fire Ball
-  descriptionLocKey: 'Fi '
-  effectLocKey: Que hace ??
+  descriptionLocKey: Fire
+  effectLocKey: Launch a blazing sphere of fire that deals direct damage to an enemy
   type: 0
   cost: 3
   att: 6

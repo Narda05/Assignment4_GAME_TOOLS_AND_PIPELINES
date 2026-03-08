@@ -14,43 +14,43 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Language
   currentLanguage: 0
   entries:
-  - locKey: 
-    en: BloodMoon
+  - locKey: Blood Moon
+    en: Blood Moon
     fr: Lune de Sang
     sp: Luna de Sangre
-  - locKey: 
-    en: DreamSeal
+  - locKey: Dream Seal
+    en: Dream Seal
     fr: "Sceau du R\xEAve"
     sp: "Sello del Sue\xF1o"
-  - locKey: 
+  - locKey: Fireball
     en: Fireball
     fr: Boule de Feu
     sp: Bola de Fuego
-  - locKey: 
-    en: GuardianSpirit
+  - locKey: Guardian Spirit
+    en: Guardian Spirit
     fr: Esprit Gardien
     sp: "Esp\xEDritu Guardi\xE1n"
-  - locKey: 
-    en: HealingLight
+  - locKey: Healing Light
+    en: Healing Light
     fr: "Lumi\xE8re Gu\xE9risseuse"
     sp: Luz Sanadora
-  - locKey: 
+  - locKey: Ice Spike
     en: IceSpike
     fr: Pic de Glace
     sp: Espina de Hielo
-  - locKey: 
-    en: PoisonMist
+  - locKey: Poison Mist
+    en: Poison Mist
     fr: "Brume Empoisonn\xE9e"
     sp: Niebla Venenosa
-  - locKey: 
-    en: ShadowBind
+  - locKey: Shadow Bind
+    en: Shadow Bind
     fr: "Lien d\u2019Ombre"
     sp: Atadura de Sombras
-  - locKey: 
+  - locKey: Shield
     en: Shield
     fr: Bouclier
     sp: Escudo
-  - locKey: 
-    en: TrunderStrike
+  - locKey: Trunder Strike
+    en: Trunder Strike
     fr: Frappe de Tonnerre
     sp: Golpe de Trueno

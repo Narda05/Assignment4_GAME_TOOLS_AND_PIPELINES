@@ -13,8 +13,9 @@ MonoBehaviour:
   m_Name: Card_DreamSeal
   m_EditorClassIdentifier: Assembly-CSharp::CardData
   nameLocKey: Dream Seal
-  descriptionLocKey: 
-  effectLocKey: 
+  descriptionLocKey: Stun
+  effectLocKey: "Seals an enemy\u2019s abilities for a short time, trapping them
+    in a dreamlike state"
   type: 2
   cost: 4
   att: 7

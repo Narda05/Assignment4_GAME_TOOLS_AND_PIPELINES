@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Card_IceSpike
   m_EditorClassIdentifier: Assembly-CSharp::CardData
   nameLocKey: Ice Spike
-  descriptionLocKey: 
-  effectLocKey: 
+  descriptionLocKey: Ice
+  effectLocKey: Sharp ice erupts from the ground, damaging and slowing enemies
   type: 0
-  cost: 0
-  att: 0
-  def: 0
+  cost: 15
+  att: 5
+  def: 15
   image: {fileID: -5212296236386218964, guid: 1bf8c2c813412654c8a43854235ab517, type: 3}

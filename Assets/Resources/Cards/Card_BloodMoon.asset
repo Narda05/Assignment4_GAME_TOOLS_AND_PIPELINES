@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData
   nameLocKey: Blood Moon
   descriptionLocKey: Watter
-  effectLocKey: 
+  effectLocKey: A cursed moon rises, increasing attack power but slowly draining
+    health
   type: 0
   cost: 7
   att: 10
