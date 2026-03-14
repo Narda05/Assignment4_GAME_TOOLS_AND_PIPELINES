@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca3cef8aa9b63348b10c646ee3353bd, type: 3}
+  m_Name: CardHoverFeedback
+  m_EditorClassIdentifier: Assembly-CSharp::AudioVisualFeedbackPreset
+  presetName: Card Hover
+  description: Describe what this preset is used for.
+  category: UI
+  triggerType: 0
+  targetType: 0
+  fmodEvent:
+    Guid:
+      Data1: -1819025593
+      Data2: 1156852241
+      Data3: 1496681644
+      Data4: -1281586938
+    Path: event:/SFX/CardHover
+  pitch: 8
+  animations:
+  - animationType: 1
+    duration: 0.12
+    intensity: 0.08
+    delay: 0
+  - animationType: 3
+    duration: 1
+    intensity: 27.4
+    delay: 0

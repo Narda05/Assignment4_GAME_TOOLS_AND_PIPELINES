@@ -24,4 +24,18 @@ public class CardData : ScriptableObject
 
     [Header("Visual")]
     public Sprite image;
+
+    [Tooltip("Background Sprite used by the card UI")]
+    public Sprite background;
+
+    [Header("Feedback")]
+    [Tooltip("Hover animation + sound")]
+    public AudioVisualFeedbackPreset hoverFeedback;
+
+    [Tooltip("Click animation + sound")]
+    public AudioVisualFeedbackPreset clickFeedback;
+
+    [Header("Special Feedback")]
+    public AudioVisualFeedbackPreset specialFeedback;
+
 }

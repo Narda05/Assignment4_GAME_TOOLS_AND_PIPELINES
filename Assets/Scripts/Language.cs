@@ -24,8 +24,14 @@ public class Language : ScriptableObject
         {
             if (entries[i].locKey == key)
             {
-                if (currentLanguage == LanguageType.FR) return entries[i].fr;
-                if (currentLanguage == LanguageType.SP) return entries[i].sp;
+                if (currentLanguage == LanguageType.FR)
+                {
+                    return entries[i].fr;
+                }
+                if (currentLanguage == LanguageType.SP)
+                {
+                    return entries[i].sp;
+                }
                 return entries[i].en; // EN
             }
         }

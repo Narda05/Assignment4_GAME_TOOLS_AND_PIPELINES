@@ -20,3 +20,7 @@ MonoBehaviour:
   att: 50
   def: 5
   image: {fileID: 21300000, guid: a9336487d9df89a4ab82120b663c74cc, type: 3}
+  background: {fileID: -4178046375966092550, guid: f9e8bb71bfdc5bd4c89ec05a9ec74976, type: 3}
+  hoverFeedback: {fileID: 11400000, guid: d8091f148508fc54e9a5f0f4fb433d27, type: 2}
+  clickFeedback: {fileID: 11400000, guid: c2ba98dd884f51349921bfbc27858789, type: 2}
+  specialFeedback: {fileID: 11400000, guid: f93f0da24f63c4946ba2d40e3c1cee99, type: 2}

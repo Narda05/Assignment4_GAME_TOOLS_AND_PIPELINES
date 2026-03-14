@@ -21,3 +21,7 @@ MonoBehaviour:
   att: 10
   def: 7
   image: {fileID: 21300000, guid: 324a46875c294cb4c90db6b3f6689179, type: 3}
+  background: {fileID: -4178046375966092550, guid: f9e8bb71bfdc5bd4c89ec05a9ec74976, type: 3}
+  hoverFeedback: {fileID: 11400000, guid: d8091f148508fc54e9a5f0f4fb433d27, type: 2}
+  clickFeedback: {fileID: 11400000, guid: c2ba98dd884f51349921bfbc27858789, type: 2}
+  specialFeedback: {fileID: 11400000, guid: c503cd1f3ce560042bd6b8519dbf246b, type: 2}
